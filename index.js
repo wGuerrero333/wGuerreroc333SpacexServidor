@@ -1,8 +1,10 @@
-const express = require('express');
-const app = express();
+alert('Hey perras');
 
-const port = process.env.PORT || 3000;
+// const express = require('express');
+// const app = express();
 
-app.listen(port,()=>{
-    console.log(`Listened by: ${port} `);
-})
+// const port = process.env.PORT || 3000;
+
+// app.listen(port,()=>{
+//     console.log(`Listened by: ${port} `);
+// })

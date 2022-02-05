@@ -2,7 +2,7 @@
   "name": "spacexbackend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "body-parser": "^1.19.1",
     "express": "^4.17.2",
